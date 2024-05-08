@@ -27,6 +27,8 @@ const App = () => {
         <Experience language={language} />
         <Contact language={language}  />
       </div>
+      <p className="text-xs text-neutral-500 mt-4">Designed by: CompileTab. Coded by Sofía Idárraga with the guide of CompileTab&rsquo;s tutorial.</p>
+
     </div>
   );
 };
